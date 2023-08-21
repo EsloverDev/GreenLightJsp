@@ -1,0 +1,31 @@
+
+header img{
+    width: 40px;
+    vertical-align: middle;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #edede9;
+    }
+
+.cuerpo{
+    text-align: center;
+    margin: auto;
+    margin-top: 80px;
+    width: 90%;
+    background-color: #457b9d;
+}
+
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 1fr;
+    margin-left: 70px;
+}
+
+footer{
+    text-align: center;
+    border-style: solid
+}

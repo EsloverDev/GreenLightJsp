@@ -1,0 +1,9 @@
+co\sena\edu\greenlightweb\persistencia\UsuarioJpaController.class
+co\sena\edu\greenlightweb\logica\Usuario_.class
+co\sena\edu\greenlightweb\logica\Usuario.class
+co\sena\edu\greenlightweb\persistencia\exceptions\NonexistentEntityException.class
+co\sena\edu\greenlightweb\persistencia\ControladoraPersistencia.class
+co\sena\edu\greenlightweb\servlets\SvUsuario.class
+co\sena\edu\greenlightweb\logica\Controladora.class
+co\sena\edu\greenlightweb\persistencia\exceptions\IllegalOrphanException.class
+co\sena\edu\greenlightweb\persistencia\exceptions\PreexistingEntityException.class
